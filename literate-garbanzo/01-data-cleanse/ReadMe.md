@@ -6,7 +6,7 @@ These scripts identify duplicate records and create a "clean" file where duplica
 1. duplicates_find - creates a CSV file from the input file containing only the duplicate records
 2. duplicates_remove - removes the duplicate records from the input file using CSV module and Pandas
 
-Input and output files are found in Resources
+Input and output files are found in the Resources folder.
 
 ### Talking Points
 
@@ -21,4 +21,5 @@ Input and output files are found in Resources
 ### CAUTION
 
 SFPD_CrimeIncidents_2018.csv in script was downloaded previously and is not to be taken as accurate or current
+
 *DATA SOURCE: https://data.sfgov.org/Public-Safety/Police-Department-Incidents-Current-Year-2018-/956q-2t7k

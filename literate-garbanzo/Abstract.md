@@ -1,4 +1,5 @@
-# Title: Big Data Cleansing, Preparation, and Visualization: Use Case Examples with Publicly Available Police Department Datasets
+# Title: Big Data Cleansing, Preparation, and Visualization:
+## Use Case Examples with Publicly Available Police Department Datasets
 
 ## Speaker: Patty Jula, GIS Supervisor I
 

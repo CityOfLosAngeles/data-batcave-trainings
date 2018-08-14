@@ -11,8 +11,8 @@
 * Optionally [Git](https://git-scm.com/downloads)
 
 * Download or `clone` the [repository](https://github.com/CityOfLosAngeles/data-batcave-trainings)
-** `git clone git@github.com:CityOfLosAngeles/data-batcave-trainings.git`
-** no SSH key? try `git clone https://github.com/CityOfLosAngeles/data-batcave-trainings.git`
+    * With SSH key `git clone git@github.com:CityOfLosAngeles/data-batcave-trainings.git`
+    * no SSH key? try `git clone https://github.com/CityOfLosAngeles/data-batcave-trainings.git`
 
 
 

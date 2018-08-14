@@ -8,7 +8,7 @@
 ## Requirements
 ### Necessary if attendees want to run programs
 * Python 3.6.x 64-bit from [Anaconda](https://www.anaconda.com/download/)
-* Jupyter [Notebook](http://jupyter.org/install.html)
+* Jupyter [Notebook](http://jupyter.org/install.html) (typically installed with Anaconda)
 * Optionally [Git](https://git-scm.com/downloads)
 
 * Download or `clone` the [repository](https://github.com/CityOfLosAngeles/data-batcave-trainings)

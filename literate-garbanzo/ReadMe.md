@@ -1,11 +1,11 @@
-#Guide to demonstration
-##Objectives
+# Guide to demonstration
+## Objectives
 
 * Understand conversion of CSV file to a dataframe
-* Understand use of `set` and 
+* Understand use of `set` 
 * 
-##Requirements
-###Necessary if attendees want to run programs
+## Requirements
+### Necessary if attendees want to run programs
 * Python 3.6.x 64-bit from [Anaconda](https://www.anaconda.com/download/)
 * Jupyter [Notebook](http://jupyter.org/install.html)
 * Optionally [Git](https://git-scm.com/downloads)
@@ -17,4 +17,4 @@
 
 
 
-##Resources
+## Resources

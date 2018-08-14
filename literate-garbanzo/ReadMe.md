@@ -1,4 +1,4 @@
-# Guide to demonstration
+# Guide Python Data Viz demonstration
 ## Objectives
 
 * Understand conversion of CSV file to a dataframe

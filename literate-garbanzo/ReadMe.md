@@ -2,8 +2,9 @@
 ## Objectives
 
 * Understand conversion of CSV file to a dataframe
-* Understand use of `set` 
-* 
+* Understand use of conditionals and looping
+* Be able to run .ipynb files from Jupyter Notebook
+* Be able to run .py files from Command Prompt (Windows) or Terminal (Mac)
 ## Requirements
 ### Necessary if attendees want to run programs
 * Python 3.6.x 64-bit from [Anaconda](https://www.anaconda.com/download/)
@@ -13,8 +14,6 @@
 * Download or `clone` the [repository](https://github.com/CityOfLosAngeles/data-batcave-trainings)
     * With SSH key `git clone git@github.com:CityOfLosAngeles/data-batcave-trainings.git`
     * no SSH key? try `git clone https://github.com/CityOfLosAngeles/data-batcave-trainings.git`
-
-
 
 
 ## Resources

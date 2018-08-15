@@ -1,8 +1,11 @@
-# Guide to Python Data Viz demonstration
+# Guide to Python Data Viz Demonstration
 ## Objectives
 
 * Understand conversion of CSV file to a dataframe
 * Understand use of conditionals and looping
+* Examine methods for data cleansing and discuss importance of doing so
+* Discuss value of normalizing data sets
+* Review Python libraries such as matplotlib, pandas, and seaborn for visualizing data
 * Be able to run .ipynb files from Jupyter Notebook
 * Be able to run .py files from Command Prompt (Windows) or Terminal (Mac)
 ## Requirements

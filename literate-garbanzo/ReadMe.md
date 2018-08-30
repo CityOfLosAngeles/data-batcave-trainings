@@ -8,6 +8,14 @@
 * Review Python libraries such as matplotlib, pandas, and seaborn for visualizing data
 * Be able to run .ipynb files from Jupyter Notebook
 * Be able to run .py files from Command Prompt (Windows) or Terminal (Mac)
+
+## Process
+
+* Live code parts of 01-data-cleanse-example
+* Live code sections of 02-plot-crimes
+* Display complete code for 03-plot-calls-for-service
+	* Only output PNG files are included in this 03 folder
+
 ## Requirements
 ### Necessary if attendees want to run programs
 * Python 3.6.x 64-bit from [Anaconda](https://www.anaconda.com/download/)

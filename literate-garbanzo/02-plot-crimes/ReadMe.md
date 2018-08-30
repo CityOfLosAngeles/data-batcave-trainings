@@ -1,5 +1,6 @@
 # Instructions
-
+* Work with code within Notebook folder
+  * Source content and output found in Resources folder
 * Utilize Pandas and Matplotlib to create a bar chart of the most commonly occurring incidents in San Franciso by Police District
 * Utilize the Seaborn libraries
 

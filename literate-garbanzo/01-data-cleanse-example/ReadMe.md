@@ -4,8 +4,10 @@
 ---
 These scripts identify duplicate records and create a "clean" file where duplicates are removed.
 
-1. duplicates_find - creates a CSV file from the input file containing only the duplicate records
-2. duplicates_remove - removes the duplicate records from the input file using CSV module and Pandas
+1. Navigate to 01-data-cleanse-example/duplicates_find.ipynb in cloned repository
+    * creates a CSV file from the input file containing only the duplicate records
+2. Run duplicates_remove.ipynb from same directory
+    * removes the duplicate records from the input file using CSV module and Pandas
 
 Input and output files are found in Resources
 

@@ -11,4 +11,4 @@ Talk will focus on running code from Jupyter Notebook to provide examples of bui
 
 ### Contact
 
-Most responsive on [Twitter](https://twitter.com/pattyjula) 
+Most responsive on [LinkedIn](https://www.linkedin.com/in/pattyjula/) or [Twitter](https://twitter.com/pattyjula) 

@@ -25,11 +25,14 @@
 * Download or `clone` the [repository](https://github.com/CityOfLosAngeles/data-batcave-trainings)
     * With SSH key `git clone git@github.com:CityOfLosAngeles/data-batcave-trainings.git`
     * no SSH key? try `git clone https://github.com/CityOfLosAngeles/data-batcave-trainings.git`
-## Install Reference
-* `python -mpip install --upgrade matplotlib`
+#### Matplotlib Install Reference
+* From within virtual enivornment enter command: `python -mpip install --upgrade matplotlib`
+    * This will update your matplotlib version so it works better with the code
+    * Optionally users can run command from local machine with command: `pip install --upgrade matplotlib`
     * confirm version `print(mpl.__version__)`
     
 ## Resources
-* Self study [resource](https://www.python-course.eu/python3_course.php)
+This is a short list of Python Resources. Signing up for MOTW-3 is highly recommended
 * Module of the Week [MOTW-3](https://pymotw.com/3/)
+* Self study [resource](https://www.python-course.eu/python3_course.php)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)

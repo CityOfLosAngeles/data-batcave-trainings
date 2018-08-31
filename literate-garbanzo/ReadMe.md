@@ -2,9 +2,9 @@
 
 # Process
 
-* Live code parts of 01-data-cleanse-example
-* Live code sections of 02-plot-crimes
-* Display complete code for 03-plot-calls-for-service
+1. Live code parts of 01-data-cleanse-example
+2. Live code sections of 02-plot-crimes
+3. Display complete code for 03-plot-calls-for-service
 	* Only output PNG files are included in this 03 folder
 	
 ## Objectives

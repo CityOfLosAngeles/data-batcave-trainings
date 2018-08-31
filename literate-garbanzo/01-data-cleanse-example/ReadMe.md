@@ -22,4 +22,4 @@ Input and output files are found in Resources
 ### CAUTION
 
 SFPD_CrimeIncidents_2018.csv in script was downloaded previously and is not to be taken as accurate or current
-*DATA SOURCE: https://data.sfgov.org/Public-Safety/Police-Department-Incidents-Current-Year-2018-/956q-2t7k
+* DATA SOURCE: https://data.sfgov.org/Public-Safety/Police-Department-Incidents-Current-Year-2018-/956q-2t7k

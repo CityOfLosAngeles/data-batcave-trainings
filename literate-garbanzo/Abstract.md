@@ -9,6 +9,6 @@ This talk demonstrates methods for optimizing big data for analysis using Python
 
 Talk will focus on running code from Jupyter Notebook to provide examples of building and debugging scripts. Attendees have the option to run scripts through Jupyter Notebook. Discussion of importance of analyzing and visualizing Big Data to produce insights for local government will follow.
 
-### Contact
-
+### Contact :link:
+More stuff [here](https://github.com/pattyjula)
 Most responsive on [LinkedIn](https://www.linkedin.com/in/pattyjula/) or [Twitter](https://twitter.com/pattyjula) 

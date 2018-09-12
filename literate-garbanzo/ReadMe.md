@@ -17,7 +17,9 @@
 * Be able to run .ipynb files from Jupyter Notebook
 * Be able to run .py files from Command Prompt (Windows) or Terminal (Mac)
 
-
+## Video
+* [Police Data Viz with Python](https://youtu.be/QKXCqdBSiK4)
+* This video include Patty's commentary and screensharing recorded during the talk
 
 ## Requirements
 ### Necessary if attendees want to run programs
